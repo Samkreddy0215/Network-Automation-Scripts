@@ -1,2 +1,16 @@
-# Network-Automation-Scripts
-Python-based network automation scripts for Cisco, cloud, and enterprise network operations including configuration backups, monitoring, auditing, and infrastructure management.
+# Network Automation Scripts
+
+Python-based network automation examples for Cisco environments.
+
+## Scripts
+
+- Cisco Device Backup
+- Interface Status Collection
+
+## Technologies
+
+- Python
+- Netmiko
+- Cisco IOS
+- Network Automation
+- Infrastructure Management
