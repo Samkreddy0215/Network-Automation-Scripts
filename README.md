@@ -14,3 +14,7 @@ Python-based network automation examples for Cisco environments.
 - Cisco IOS
 - Network Automation
 - Infrastructure Management
+
+## Additional Scripts
+
+- Network Inventory Collection
