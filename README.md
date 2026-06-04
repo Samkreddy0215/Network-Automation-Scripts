@@ -18,3 +18,10 @@ Python-based network automation examples for Cisco environments.
 ## Additional Scripts
 
 - Network Inventory Collection
+- 
+## Scripts
+
+- Cisco Device Backup
+- Interface Status Collection
+- Network Inventory Collection
+- Configuration Compliance Audit
