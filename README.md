@@ -25,3 +25,7 @@ Python-based network automation examples for Cisco environments.
 - Interface Status Collection
 - Network Inventory Collection
 - Configuration Compliance Audit
+
+- - VLAN Audit and Reporting
+ 
+  - 
